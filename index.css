@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.group {
+    color: white;
+    text-align: center;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:100vh;
+    background-size: cover;
+
+
+}
+.h{
+    margin: 30px;
+}
+.mcu{
+    text-align: center;
+        background-color: white;
+        border-width: 2px;
+        border-color: #e5eaf4;
+        border-radius: 16px;
+        padding: auto;  
+}
+.A{
+    border-radius: 30px;
+    width: 30%;
+}
+.B{
+    border-radius: 30px;
+    width: 30%;
+}
+.C{
+    border-radius: 30px;
+    width: 30%;
+}
+.body{
+    margin: 0;
+}
+.card-container1{
+    border-radius: 20px;
+    color: white;
+    padding: 16px;
+    padding-bottom: 40px;
+}
+.button{
+    border-style: solid;
+    border-color: orange !important;
+    border-width: 2px;
+}
+h1{
+    border-left: 20px;
+   
+}
+.menu{
+    margin-left: 50px;
+}
+
+h3{
+    text-align: start;
+ 
+}
+.img1{
+    height: 200px;
+    width: 200px;
+}
+.explore{
+    
+        background-color: white;
+        border-width: 1px;
+        border-color: #e5eaf4;
+        border-radius: 30pxpx;
+}
+.img1{
+    margin:20px;
+    border-radius: 30px;
+}
+.img2 {
+    margin: 20px;
+    border-radius: 30px;
+}
+.img2 {
+    height: 200px;
+    width: 200px;
+}
+.explore1 {
+    padding-left: 100px;
+    border-radius: 30px;
+}
+.pic{
+    padding: 50px;
+    height: 300px;
+    width: 300px;
+}
+.imag{
+    padding: 100px;
+}
+.text{
+text-align: center;
+padding:30px;
+}
+.dis{
+    height: 200px;
+    width: 200px;
+}
+
+.button {
+    border-style: solid;
+    border-color: orange !important;
+    border-width: 10px;
+}
+.p1{
+   
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+.p2 {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+.p3 {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+.p4 {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+.payment{
+    
+    padding-left: 150px;
+   
+}
+.gift{
+    height: 200px;
+    width: 200px;
+    margin-right: 100px;
+}
+.radi{
+    border-radius: 30px;
+  
+}
+.BB{
+    width: 150px;
+}
+.card1{
+    padding-left: 50px;
+    
+}
+.pack{
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.icon{
+    height: 200px;
+    width: 200px;
+}
+.last{
+
+    height: 100px;
+    width: 100px;
+}
+.over{
+    padding-bottom: 50px;
+}
+#item1{
+color: black;
+font-family: 'Roboto';
+}
+#item2{
+    color: black;
+font-family: 'Roboto';
+}
+#item3{
+    color: black;
+font-family: 'Roboto';
+}
+#item4{
+    color: black;
+font-family: 'Roboto';
+}
